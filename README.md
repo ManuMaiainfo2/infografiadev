@@ -1,2 +1,2 @@
-# infografiadev
+# infografia.dev
 infografia sobre imigração 
